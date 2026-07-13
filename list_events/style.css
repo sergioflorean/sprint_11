@@ -1,0 +1,20 @@
+body {
+  background: white;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+li {
+  margin: 20px 0;
+}
+
+li b {
+  display: block;
+}
+
+li i {
+  font-size: smaller;
+}
