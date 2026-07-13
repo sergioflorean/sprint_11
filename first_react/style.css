@@ -1,0 +1,10 @@
+.item {
+  width: 100px;
+  height: 100px;
+  background: orange;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
